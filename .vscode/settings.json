@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
-        "configmap"
+        "configmap",
+        "gridfs",
+        "pymongo",
+        "rabbitmq"
     ]
 }
